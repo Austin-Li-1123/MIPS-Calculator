@@ -1,0 +1,2 @@
+# MIPS-Calculator
+A multi-function calculator built with MIPS and FPGA boards. Performs addition, subtraction, multiplication, and division as well as a small stack-based memory that can remember the outcome of prior computations that the user selects. The calculator uses the keypad or keyboard peripheral to allow a user to enter numbers and operators, displaying the answer as decimal numbers(or the error in English) on the FPGA board. It uses an FSM to respond to sequences of button presses.
